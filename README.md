@@ -5,3 +5,10 @@ Design calls for an alert to be displayed in the event that communication with a
 Changelog:
 17w41 - v1.0
 Addition of code originally developed to Repository.
+
+
+Technologies Used:
+Asyncronus TCP Packet Handshake
+DNS Name Resolution
+Tray Application
+.net Framework 4.6.1
